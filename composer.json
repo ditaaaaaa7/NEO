@@ -1,0 +1,12 @@
+{
+  "name": "asus/admin",
+  "description": "print",
+  "autoload": {
+    "psr-4": {
+      "Asus\\Admin\\": "src/"
+    }
+  },
+  "require": {
+    "mpdf/mpdf": "^8.1.3"
+  }
+}
